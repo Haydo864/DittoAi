@@ -1,0 +1,2 @@
+# DittoAi
+Pokemon related AI
